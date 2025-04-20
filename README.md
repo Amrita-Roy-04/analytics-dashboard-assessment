@@ -41,3 +41,9 @@ Your submission will be evaluated based on:
 - **Repository Access:** Keep your repository private to avoid visibility by other candidates. Add the following email addresses as collaborators to the repository, these are our internal emails and will be evaluating your assessment:
   - kandaramit5@gmail.com
 - Finally, please fill out the google form that you received via email to submit the assessment for review.
+
+
+-https://khcqg6xfzksvvocj9hlbfa.on.drv.tw/www.dashboard.com/index1.html
+kindly check this page, i am unable to upload my main file in my reposiratory as it is bigger than 25mb(81mb-the data that was provided)
+although you can check the code uploaded in my account
+THANK YOU.
